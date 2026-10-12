@@ -5,6 +5,10 @@ list, and Forget on every saved network, including the one you're connected
 to. It looks and behaves like the stock panel otherwise, and replaces it on the
 bar when enabled.
 
+![The panel filtered to "co": the connected and a saved network both show Forget](preview.png)
+
+<sub>Network names in the screenshot are made up.</sub>
+
 - **Type to filter.** Start typing and the list narrows to networks whose name
   contains what you typed (case-insensitive). The filter shows above the list;
   Backspace edits it. Esc clears the filter, and a second Esc closes the panel.
