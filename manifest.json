@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "io.github.yeutterg.wifi-filter",
   "name": "Wi-Fi Filter & Forget",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "yeutterg",
   "license": "MIT",
   "description": "Omarchy's Wi-Fi panel with type-to-filter for long network lists, and Forget on every saved network, including the one you're connected to.",
@@ -16,6 +16,7 @@
     "displayName": "Wi-Fi Filter & Forget",
     "description": "Wi-Fi list and connection state, with type-to-filter and Forget on any saved network",
     "category": "Network",
+    "defaultSection": "right",
     "allowMultiple": false
   },
   "omarchy": {
